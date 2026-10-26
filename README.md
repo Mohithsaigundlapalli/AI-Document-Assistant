@@ -166,7 +166,3 @@ This project does not require an OpenAI API key. Avoid committing private docume
 **Mohith Sai Gundlapalli**
 
 AI and Data Science | Python | Data Analytics | Generative AI
-
-GitHub: https://github.com/YOUR-USERNAME
-
-LinkedIn: Add your LinkedIn profile URL here
